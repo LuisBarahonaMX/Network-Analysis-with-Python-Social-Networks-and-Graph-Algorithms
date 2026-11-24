@@ -9,6 +9,13 @@
 **Author:** Data Engineer Luis Barahona
 
 ---
+<div align="center">
+
+<img src="./network_analysis.png" alt="Social Network Analysis with Python and NetworkX" width="500">
+
+*Social Network Analysis — Graph connectivity, nodes, and relationships.*
+
+</div>
 
 ## 1. Project Overview
 
